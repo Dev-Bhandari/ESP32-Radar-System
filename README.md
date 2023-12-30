@@ -40,7 +40,7 @@ The ESP32 Radar System is an open-source project designed to create a radar syst
 
 ## Contributing
 
-Contributions are welcome! Feel free to open issues, submit pull requests, or suggest improvements. Please follow the [contribution guidelines](CONTRIBUTING.md).
+Contributions are welcome! Feel free to open issues, submit pull requests, or suggest improvements.
 
 ## License
 
@@ -53,4 +53,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Support
 
-For any inquiries or support regarding the project, feel free to [contact](mailto:your@email.com) us.
+For any inquiries or support regarding the project, feel free to [contact](mailto:devbh789@gmail.com) us.
