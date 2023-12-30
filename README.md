@@ -46,11 +46,6 @@ Contributions are welcome! Feel free to open issues, submit pull requests, or su
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
-
-- Mention any contributors or libraries that were used or inspired this project.
-- Any additional acknowledgments or credits.
-
 ## Support
 
 For any inquiries or support regarding the project, feel free to [contact](mailto:devbh789@gmail.com) us.
