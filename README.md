@@ -1,5 +1,5 @@
 # ESP32 Radar System
-<img src = "https://github.com/Dev-Bhandari/ESP32-Radar-System/assets/52774043/a3ee1fa2-0e6b-43c8-839c-d4e70056732d" width = "400">
+<img src = "https://github.com/Dev-Bhandari/ESP32-Radar-System/assets/52774043/6b9f20a0-a8e6-48f8-b1d4-24327bd8906d" width = "500">
 
 ## Description
 
@@ -19,6 +19,10 @@ The ESP32 Radar System is an open-source project designed to create a radar syst
 - ESP32 microcontroller
 - Ultrasonic sensor
 - Servo motor
+
+## Circuit
+
+<img src = "https://github.com/Dev-Bhandari/ESP32-Radar-System/assets/52774043/a3ee1fa2-0e6b-43c8-839c-d4e70056732d" width = "400">
 
 ## Installation
 
