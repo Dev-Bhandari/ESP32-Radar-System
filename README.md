@@ -3,7 +3,7 @@
 
 ## Description
 
-The ESP32 Radar System is an open-source project designed to create a radar system using the ESP32 microcontroller. This project utilizes radar technology to detect and visualize objects in the proximity of the device. It provides a cost-effective solution for implementing radar-based applications using the ESP32 platform. Additionally, the ESP32 hosts a web server to display radar information accessible over the internet.
+The ESP32 Radar System is an open-source project designed to create a radar system using the ESP32 microcontroller. This project utilizes ultrasonic technology to detect and visualize objects in the proximity of the device. Additionally, the ESP32 hosts a web server to display radar information accessible over the internet.
 
 ## Features
 
